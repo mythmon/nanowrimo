@@ -1,5 +1,5 @@
 set nonumber
 set textwidth=80
-set formatoptions+=
+set formatoptions+=t
 set noruler
 set nospell
