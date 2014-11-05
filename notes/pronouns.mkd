@@ -1,0 +1,30 @@
+# List of pronoun systems.
+
+```
+Male                he          him         him         his         himself
+Female              she         her         her         hers        herself
+One                 one         one         one's       --          oneself
+Singular They       they        them        their       theirs      themself
+
+Elverson            ey          em          eir         eirs        eirself
+Spivak              E           Em          Eir         Eirs        Emself
+Humanist            hu          hum         hus         hus         humself
+Per                 per         per         per         pers        perself
+Thon                thon        thon        thons       thons       thonself
+Jee, Jeir, Jem      jee         jem         jeir        jeirs       jemself
+Ve                  ve          ver         vis         vis         verself
+Xe                  xe          xem         xyr         xyrs        xemself
+Ze (germanic)       ze          zir/zem     zir/zes     zirs/zes    zirself
+Ze/hir              ze          hir         hir         hirs        hirself
+Ze/mer              ze          mer         zer         zers        zemself
+Zhe                 zhe         zhim        zher        zhers       zhimself
+```
+
+
+# Anna and Katta's chosen pronouns:
+
+```
+Female              she         her         her         hers        herself
+Chapter A           ze          zir         zir         zirs        zirself
+```
+

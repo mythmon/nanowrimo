@@ -1,0 +1,5 @@
+Magic does not violate conservation of mass/energy, nor can it act faster than
+the speed of light (caveat: time travel).
+
+To move an object with magic requires expending mana with equal potential energy
+as to move the object by itself. For this reason, mana is measured in Joules.
