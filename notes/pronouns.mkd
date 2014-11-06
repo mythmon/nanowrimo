@@ -3,7 +3,7 @@
 ```
 Male                he          him         him         his         himself
 Female              she         her         her         hers        herself
-One                 one         one         one's       --          oneself
+One                 one         one         --          one's       oneself
 Singular They       they        them        their       theirs      themself
 
 Elverson            ey          em          eir         eirs        eirself
@@ -25,6 +25,7 @@ Zhe                 zhe         zhim        zher        zhers       zhimself
 
 ```
 Female              she         her         her         hers        herself
+Chapter 1           it          it          it          its         itself
 Chapter A           ze          zir         zir         zirs        zirself
 ```
 

@@ -15,3 +15,15 @@ Anna was dispatched to retrieve Chris. Katta was dispatched to retrive Veronica.
 
 They do not speak with contractions, have a very literal view on the world, and
 have a child's rudeness. They don't know when they shouldn't do something.
+
+They prefer to take the shape of creature that are usually brightly colored, so
+they can project their natural colors into the shape. Lizards and Birds are
+often brightly colored, and so are favorite choices.
+
+When faced with a situation where lots of color is inappropriate, they generally
+try and work in their signature color as an accent. The eye color of a
+human. The lights of a machine. It is rare to see the avatars without their
+color.
+
+This was coded into the avatars partially for flavor, but mainly so they would
+always be identifiable to a keen eye.
